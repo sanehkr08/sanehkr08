@@ -5,7 +5,7 @@
 
 - 🔭 I have completed 4 projects in data analysis by using tools like Power BI, Python, Pandas, NumPy, Matplotlib, MySQL, SQLite and my next project is analysing data through API calls from 3rd party website.
 - 👯 I’m looking to collaborate on any data analysis realted project that  can polish and enhance my skills.
-- 🌱 Currently, I am learning data science from CodingNinjas. Right now I am learning about web scarpping and how to use it to collect useful data as per our requirement.
+- 🌱 Currently, I am enrolled in data science course from CodingNinjas. Right now I am learning about web scarpping and how to use it to collect useful data as per our requirement.
 - 👨‍💻 All of my projects are available at my repository. Currently I am building my portfolio to accomodate all my projects in asthetic way. [datascienceportfol.io/sanehkumar](datascienceportfol.io/sanehkumar)
 
 - 💬 I talk about **SQL, Python, Pandas, NumPy, Power BI and other data related topics.**
