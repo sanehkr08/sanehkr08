@@ -1,3 +1,4 @@
+<img src="https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg" alt="seaborn"/>
 <h1 align="center">Hi 👋, I'm Saneh Kumar</h1>
 <h3 align="center">A passionate Data Analyst, loves cooking raw datas into actionable insights and solving problems using data.</h3>
 
